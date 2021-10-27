@@ -9,7 +9,7 @@ Voorzie in je contact formulier onderstaande velden.
  - tekstveld
  - submitknop
 
-Het formulier moet niet verstuurd worden. Indien alle velden OK zijn toon een alert.
+Het formulier moet niet verstuurd worden. Indien alle velden OK zijn toon een alert met de ingevulde data.
 
 
 Voorzie validatie op 3 manieren
